@@ -39,10 +39,6 @@ jobs:
           codecov
     - name: Codecov
       uses: codecov/codecov-action@v3.1.1
-
-
-
     - name: Test with unittest
       run: |
         python -m unittest
-        
