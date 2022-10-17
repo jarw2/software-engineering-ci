@@ -6,6 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import os
+import sys
+sys.path.insert(0, os.path.abspath('../../ci_course'))
+
 project = 'Software Engineering CI'
 copyright = '2022, Jacob Wright'
 author = 'Jacob Wright'
