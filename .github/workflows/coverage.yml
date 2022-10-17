@@ -10,8 +10,6 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -33,6 +31,9 @@ jobs:
         CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
       run: |
           codecov
+    - name: Codecov
+      uses: codecov/codecov-action@v3.1.1
+
 
 
     - name: Test with unittest
