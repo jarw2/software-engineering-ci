@@ -1,4 +1,4 @@
-[![Run unit tests](https://github.com/jarw2/software-engineering-ci/actions/workflows/python-package.yml/badge.svg)](https://github.com/jarw2/software-engineering-ci/actions/workflows/python-package.yml)
+[![Run unit tests](https://github.com/jarw2/software-engineering-ci/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/jarw2/software-engineering-ci/actions/workflows/unit-tests.yml)
 
 [![Run os tests](https://github.com/jarw2/software-engineering-ci/actions/workflows/os-tests.yml/badge.svg)](https://github.com/jarw2/software-engineering-ci/actions/workflows/os-tests.yml)
 
