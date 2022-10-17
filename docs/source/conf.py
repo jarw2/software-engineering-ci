@@ -25,5 +25,3 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = []
-
-master_doc = 'index' # As build failed
