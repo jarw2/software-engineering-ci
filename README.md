@@ -1,3 +1,5 @@
+[![Run unit tests](https://github.com/jarw2/software-engineering-ci/actions/workflows/python-package.yml/badge.svg)](https://github.com/jarw2/software-engineering-ci/actions/workflows/python-package.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
